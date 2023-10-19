@@ -10,17 +10,17 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sylhare/Type-on-Strap.git"
+    "url": "git+https://github.com/datunaa/datunaa.github.io.git"
   },
   "keywords": [
     "jekyll"
   ],
-  "author": "sylhare",
+  "author": "datunaa",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Sylhare/Type-on-Strap/issues"
+    "url": "https://github.com/datunaa/datunaa.github.io/issues"
   },
-  "homepage": "https://github.com/sylhare/Type-on-Strap#readme",
+  "homepage": "https://github.com/datunaa/datunaa.github.io#readme",
   "engines": {
     "node": ">=14.0.0"
   },
